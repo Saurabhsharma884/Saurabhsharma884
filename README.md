@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 <!--[![Saurabhsharma884's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/saurabhsharma884)-->
     
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="100">
-<img src="https://user-images.githubusercontent.com/65456653/120441516-44200700-c3a2-11eb-8181-ac30085e6d0e.jpg" width="100">
 
-<!-- ![IMG-20191010-WA0050](https://user-images.githubusercontent.com/65456653/120441516-44200700-c3a2-11eb-8181-ac30085e6d0e.jpg) -->
