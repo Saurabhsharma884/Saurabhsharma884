@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <!--[![Saurabhsharma884's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/saurabhsharma884)-->
     
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="100">
-![IMG-20191010-WA0050](https://user-images.githubusercontent.com/65456653/120441251-002d0200-c3a2-11eb-9886-01d27fb3a4d0.jpg)
+<img src="<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="100">" width="100">
+![IMG-20191010-WA0050](<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="100">)
