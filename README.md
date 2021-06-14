@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 <!--[![Saurabhsharma884's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/saurabhsharma884)-->
     
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="100">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?usp=sharing&url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1dVuj7_sa-hs-JhiZxcwgg6zPB3bFSVt9%2Fview&count_bg=%2379C83D&title_bg=%23555555&icon=moleculer.svg&icon_color=%23F50505&title=&edge_flat=true)](https://hits.seeyoufarm.com)
