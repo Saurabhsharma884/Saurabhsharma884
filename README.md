@@ -1,4 +1,5 @@
-### Hi there 👋..I am Saurabh Sharma,studying in 2nd year
+### Hi there 👋..I am Saurabh Sharma
+-I’m studying in 2nd year
 -I’m currently learning Android App Development
 -How to reach me:saurabh182000@gmail.com
 
