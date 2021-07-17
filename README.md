@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am Saurabh Sharma,studying in 2nd year
+-I’m currently learning Android App Development
+-How to reach me:saurabh182000@gmail.com
+
 
 <!--
 **Saurabhsharma884/Saurabhsharma884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Saurabhsharma884's github stats](https://github-readme-stats.vercel.app/api?username=Saurabhsharma884)](https://github.com/Saurabhsharma884/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884&langs_count=5)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884&langs_count=5) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884&layout=compact)](https://github.com/Saurabhsharma884/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884&layout=compact)](https://github.com/Saurabhsharma884/github-readme-stats)
 
 
 <!--[![Saurabhsharma884's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/saurabhsharma884)-->
