@@ -1,7 +1,9 @@
 ### Hi there 👋..I am Saurabh Sharma
--I’m studying in 2nd year
--I’m currently learning Android App Development
--How to reach me:saurabh182000@gmail.com
+
+
+- 🎓 I'm currently a 2nd year student at ABES Engineering College,Ghaziabad.✌
+- 🔎 I’m currently learning Android App Development.✌
+- 💬 How to reach me:saurabh182000@gmail.com <br>
 
 
 <!--
