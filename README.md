@@ -8,7 +8,7 @@
 - 📫 How to reach me **saurabh182000@gmail.com**
 
 [![Saurabhsharma884's github stats](https://github-readme-stats.vercel.app/api?username=Saurabhsharma884)](https://github.com/Saurabhsharma884/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884&layout=compact)](https://github.com/Saurabhsharma884/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884)](https://github.com/Saurabhsharma884/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
