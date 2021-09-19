@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Sharma</h1>
-<h3 align="center">A 2nd year student at ABES Engineering College</h3>
+<h3 align="center">A 3rd year student at ABES Engineering College</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saurabhsharma884&label=Profile%20views&color=072f64&style=plastic" alt="saurabhsharma884" /> </p>
 
