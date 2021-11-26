@@ -30,7 +30,7 @@
         <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="saurabh884" height="35" width="140" />
     </a>
  <a href="https://auth.geeksforgeeks.org/user/saurabh182000/profile" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="saurabh884" height="35" width="140" />
+        <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="saurabh884" height="35" width="160" />
     </a>
 </p>
 
