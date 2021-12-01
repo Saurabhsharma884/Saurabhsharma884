@@ -30,7 +30,7 @@
         <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="saurabh884" height="35" width="140" />
     </a>
  <a href="https://auth.geeksforgeeks.org/user/saurabh182000/profile" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="saurabh884" height="35" width="160" />
+        <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="saurabh884" height="35" width="150" />
     </a>
 </p>
 
@@ -47,6 +47,8 @@
 <p align="center">
      <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="saurabh884" height="35" width="140" />
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="saurabh884" height="35" width="150" />
+     <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="saurabh884" height="35" width="150" />
+    
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=saurabhsharma884&label=Profile%20views&color=072f64&style=plastic" alt="saurabhsharma884" /></p>
