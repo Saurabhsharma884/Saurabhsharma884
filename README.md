@@ -10,7 +10,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Saurabhsharma884" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhsharma884&layout=compact" width="400" />
-    <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhsharma884" width="400"/>
 </p>
 <hr>
 <h3 align="center">Connect with me:</h3>
