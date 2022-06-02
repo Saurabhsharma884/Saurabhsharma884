@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I'm Saurabh Sharma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>, I'm Saurabh Sharma</h1>
 <h3 align="center">3rd year student at ABES Engineering College</h3>
 
 
