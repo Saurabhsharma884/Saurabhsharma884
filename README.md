@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>, I'm Saurabh Sharma</h1>
-<h3 align="center">Final year student at ABES Engineering College</h3>
-
 
 - 🌱 I’m currently learning **web development** 😁
 - 💬 Ask me about anything, I am happy to help 😄
